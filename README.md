@@ -75,6 +75,7 @@ The analysis is based on a dataset containing employee information such as depar
 To ensure accurate and reliable analysis, the HR datasets (HR_1 and HR_2) were cleaned, validated, and transformed before building the dashboard.
 
 **Data Cleaning**
+
 Checked for and removed duplicate employee records to maintain data consistency.
 Verified data types and ensured numerical fields were stored in the correct format.
 Handled missing or null values using appropriate data-cleaning techniques.
@@ -83,6 +84,7 @@ Standardized column names for easier data modeling and analysis.
 Validated Employee ID/Employee Number fields to establish accurate relationships between HR_1 and HR_2 datasets.
 
 **Data Preparation**
+
 Merged HR_1 and HR_2 datasets using Employee ID to create a unified employee dataset.
 Created calculated measures for:
 Total Employees
